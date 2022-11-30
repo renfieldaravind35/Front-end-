@@ -1,0 +1,34 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n",
+        "<project version=\"4\">\n",
+        "  <component name=\"VcsDirectoryMappings\">\n",
+        "    <mapping directory=\"$PROJECT_DIR$/..\" vcs=\"Git\" />\n",
+        "  </component>\n",
+        "</project>"
+      ],
+      "metadata": {
+        "id": "DFfret555Ovx"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
