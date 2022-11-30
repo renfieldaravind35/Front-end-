@@ -1,0 +1,49 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "/*.star{*/\n",
+        "/*    width: 3rem;*/\n",
+        "/*}*/\n",
+        "\n",
+        ".star__wrapper{\n",
+        "    width: 3rem;\n",
+        "}\n",
+        "\n",
+        ".todo__paragraph{\n",
+        "    max-width: 7rem;\n",
+        "}\n",
+        "\n",
+        ".task__image{\n",
+        "    width: 5rem;\n",
+        "    height: auto;\n",
+        "}\n",
+        ".custom-checkbox input[type=\"checkbox\"] {\n",
+        "    opacity: 0;\n",
+        "    position: absolute;\n",
+        "    left: -9999px;\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "SVbHMKAe9I6x"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
