@@ -1,0 +1,36 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n",
+        "<project version=\"4\">\n",
+        "  <component name=\"ProjectModuleManager\">\n",
+        "    <modules>\n",
+        "      <module fileurl=\"file://$PROJECT_DIR$/frontend.iml\" filepath=\"$PROJECT_DIR$/frontend.iml\" />\n",
+        "    </modules>\n",
+        "  </component>\n",
+        "</project>"
+      ],
+      "metadata": {
+        "id": "J73uVoqO43xP"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
