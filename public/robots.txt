@@ -1,0 +1,31 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "# https://www.robotstxt.org/robotstxt.html\n",
+        "User-agent: *\n",
+        "Disallow:"
+      ],
+      "metadata": {
+        "id": "kJ5RTxJr69CX"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
