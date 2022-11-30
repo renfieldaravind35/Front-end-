@@ -1,0 +1,38 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        ".todo-list__container{\n",
+        "    /*border: solid 2px black;*/\n",
+        "}\n",
+        "\n",
+        ".todo-list__wrapper{\n",
+        "    height: 70vh;\n",
+        "    /*width: 80vw;*/\n",
+        "    overflow: scroll;\n",
+        "    /*border: solid 3px #000;*/\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "cJG555W79eaw"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
