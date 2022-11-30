@@ -1,0 +1,36 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "{\n",
+        "  \"short_name\": \"LetsGO!\",\n",
+        "  \"name\": \"react App LetsGO!\",\n",
+        "  \"start_url\": \".\",\n",
+        "  \"display\": \"standalone\",\n",
+        "  \"theme_color\": \"#000000\",\n",
+        "  \"background_color\": \"#ffffff\"\n",
+        "}"
+      ],
+      "metadata": {
+        "id": "tdCCaxa96o4g"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
