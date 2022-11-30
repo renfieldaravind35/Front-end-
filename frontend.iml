@@ -1,0 +1,38 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n",
+        "<module type=\"WEB_MODULE\" version=\"4\">\n",
+        "  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\n",
+        "    <exclude-output />\n",
+        "    <content url=\"file://$MODULE_DIR$\">\n",
+        "      <excludeFolder url=\"file://$MODULE_DIR$/build\" />\n",
+        "    </content>\n",
+        "    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n",
+        "  </component>\n",
+        "</module>"
+      ],
+      "metadata": {
+        "id": "zA7omdAmBiLt"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
