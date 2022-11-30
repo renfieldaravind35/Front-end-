@@ -1,0 +1,37 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n",
+        "<project version=\"4\">\n",
+        "  <component name=\"ProjectRootManager\">\n",
+        "    <output url=\"file://$PROJECT_DIR$/out\" />\n",
+        "  </component>\n",
+        "  <component name=\"ProjectType\">\n",
+        "    <option name=\"id\" value=\"jpab\" />\n",
+        "  </component>\n",
+        "</project>"
+      ],
+      "metadata": {
+        "id": "fCYkoCp54TkB"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
