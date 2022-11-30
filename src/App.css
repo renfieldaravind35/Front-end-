@@ -1,0 +1,41 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        ".App {\n",
+        "  height: 100vh;\n",
+        "  max-width: 360px;\n",
+        "  text-align: center;\n",
+        "  border: 0.5rem solid #000;\n",
+        "  border-radius: 8px;\n",
+        "  overflow: scroll;\n",
+        "}\n",
+        "\n",
+        ".source_div{\n",
+        "  font-size: 0.5rem;\n",
+        "}\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "EbzyBBFG-yem"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
