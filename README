@@ -1,0 +1,35 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "QPPmq1gghjWf"
+      },
+      "outputs": [],
+      "source": [
+        "The Task\n",
+        "Build a Kanban board web application. The application should communicate with a Database of your choice(preferebly Postgres) through an API layer.\n",
+        "\n",
+        "Four default sections - Backlogs, Planned, In Progress and Completed.\n",
+        "One default board and the ability to create multiple boards.\n",
+        "The option to add new tasks to the board, update existing tasks and delete tasks.\n",
+        "The option to drag and drop tasks across the board to change their statuses."
+      ]
+    }
+  ]
+}
