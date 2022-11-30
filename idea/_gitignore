@@ -1,0 +1,65 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "source": [
+        "# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.\n",
+        "\n",
+        "# dependencies\n",
+        "/node_modules\n",
+        "/.pnp\n",
+        ".pnp.js\n",
+        "\n",
+        "# testing\n",
+        "/coverage\n",
+        "\n",
+        "# production\n",
+        "/build\n",
+        "\n",
+        "# misc\n",
+        ".DS_Store\n",
+        ".env.local\n",
+        ".env.development.local\n",
+        ".env.test.local\n",
+        ".env.production.local\n",
+        "\n",
+        "npm-debug.log*\n",
+        "yarn-debug.log*\n",
+        "yarn-error.log*\n",
+        "\n",
+        "#VS Code\n",
+        ".vscode/*\n",
+        "!.vscode/settings.json\n",
+        "!.vscode/tasks.json\n",
+        "!.vscode/launch.json\n",
+        "!.vscode/extensions.json\n",
+        "!.vscode/*.code-snippets\n",
+        "\n",
+        "# Local History for Visual Studio Code\n",
+        ".history/\n",
+        "\n",
+        "# Built Visual Studio Code Extensions\n",
+        "*.vsix"
+      ],
+      "metadata": {
+        "id": "cNPSEITuBMKl"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
